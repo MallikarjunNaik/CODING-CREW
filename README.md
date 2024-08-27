@@ -143,10 +143,10 @@ Each day, a different collaborator will solve one problem and provide an explana
 | **Problem No. (LeetCode)** | **Problem Description** | **Solved By**  | **Topic** |
 |----------------------------|-------------------------|----------------|-----------|
 | 238,605                    |Product of Array Except Self, Can Place Flowers| Mallikarjun  | Arrays    |
-| 2                          | Description 2           | Collaborator 2 | Strings   |
-| 3                          | Description 3           | Collaborator 3 | Arrays    |
-| 4                          | Description 4           | Collaborator 4 | Strings   |
-| 5                          | Description 5           | Collaborator 5 | Arrays    |
+| 2                          | Description 2           | Akash | Strings   |
+| 3                          | Description 3           | Vinay | Arrays    |
+| 4                          | Description 4           | Rugved | Strings   |
+| 5                          | Description 5           | Naqueeb | Arrays    |
 
 ## Day 2: Arrays and Strings
 
