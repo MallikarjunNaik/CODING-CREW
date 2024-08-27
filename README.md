@@ -152,11 +152,11 @@ Each day, a different collaborator will solve one problem and provide an explana
 
 | **Problem No. (LeetCode)** | **Problem Description** | **Solved By**  | **Topic** |
 |----------------------------|-------------------------|----------------|-----------|
-| 1                          | Description 6           | Collaborator 1 | Strings   |
-| 2                          | Description 7           | Collaborator 2 | Arrays    |
-| 3                          | Description 8           | Collaborator 3 | Strings   |
-| 4                          | Description 9           | Collaborator 4 | Arrays    |
-| 5                          | Description 10          | Collaborator 5 | Strings   |
+| 1                          | Description 6           | Collaborator 1 |   |
+| 2                          | Description 7           | Collaborator 2 |    |
+| 3                          | Description 8           | Collaborator 3 |    |
+| 4                          | Description 9           | Collaborator 4 |    |
+| 5                          | Description 10          | Collaborator 5 | |
 
 ## Day 3: Stacks, Queues, and Hashing
 
