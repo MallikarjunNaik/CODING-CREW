@@ -213,6 +213,7 @@ Thank you for checking out our **CODING-CREW**! If you have any questions or sug
 
 ## Collaborators
 
+- [Mallikarjun S Naik](https://github.com/MallikarjunNaik)
 - [Akash Desai](https://github.com/Akash0o7)
 - [Rugved Dhananjaya Kulkarni](https://github.com/rugved18)
 - [Vinay Nayak](https://github.com/titaniumvinay)
