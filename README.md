@@ -148,7 +148,7 @@ Each day, a different collaborator will solve one problem and provide an explana
 | 171.                       |  Excel Sheet Column Number   | Rugved | Strings   |
 | 5                          | Description 5           | Naqueeb | Arrays    |
 
-## Day 2: Arrays and Strings
+## Day 2: Linked Lists and Recursion
 
 | **Problem No. (LeetCode)** | **Problem Description** | **Solved By**  | **Topic** |
 |----------------------------|-------------------------|----------------|-----------|
