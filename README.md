@@ -143,7 +143,7 @@ Each day, a different collaborator will solve one problem and provide an explana
 | **Problem No. (LeetCode)** | **Problem Description** | **Solved By**  | **Topic** |
 |----------------------------|-------------------------|----------------|-----------|
 | 238,605                    |Product of Array Except Self, Can Place Flowers| Mallikarjun  | Arrays    |
-| 2                          | Description 2           | Akash | Strings   |
+| 443.                          | String Compression         | Akash | Strings   |
 | 3                          | Description 3           | Vinay | Arrays    |
 | 171.                       |  Excel Sheet Column Number   | Rugved | Strings   |
 | 5                          | Description 5           | Naqueeb | Arrays    |
