@@ -152,7 +152,7 @@ Each day, a different collaborator will solve one problem and provide an explana
 
 | **Problem No. (LeetCode)** | **Problem Description** | **Solved By**  | **Topic** |
 |----------------------------|-------------------------|----------------|-----------|
-| 1                          | Description 6           | Collaborator 1 |   |
+| 141                          | Linked List Cycle         | Akash |  Linked List |
 | 2                          | Description 7           | Collaborator 2 |    |
 | 3                          | Description 8           | Collaborator 3 |    |
 | 4                          | Description 9           | Collaborator 4 |    |
