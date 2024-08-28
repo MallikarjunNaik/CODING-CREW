@@ -148,60 +148,6 @@ Each day, a different collaborator will solve one problem and provide an explana
 | 171.                       |  Excel Sheet Column Number   | Rugved | Strings   |
 | 5                          | Description 5           | Naqueeb | Arrays    |
 
-## Day 2: Linked Lists and Recursion
-
-| **Problem No. (LeetCode)** | **Problem Description** | **Solved By**  | **Topic** |
-|----------------------------|-------------------------|----------------|-----------|
-| 141                          | Linked List Cycle         | Akash |  Linked List |
-| 2                          | Description 7           | Collaborator 2 |    |
-| 3                          | Description 8           | Collaborator 3 |    |
-| 4                          | Description 9           | Collaborator 4 |    |
-| 5                          | Description 10          | Collaborator 5 | |
-
-## Day 3: Stacks, Queues, and Hashing
-
-| **Problem No. (LeetCode)** | **Problem Description** | **Solved By**  | **Topic** |
-|----------------------------|-------------------------|----------------|-----------|
-| 1                          | Description 11          | Collaborator 1 | Stacks    |
-| 2                          | Description 12          | Collaborator 2 | Queues    |
-| 3                          | Description 13          | Collaborator 3 | Hashing   |
-| 4                          | Description 14          | Collaborator 4 | Stacks    |
-| 5                          | Description 15          | Collaborator 5 | Queues    |
-
-## Day 4: Two Pointers and Binary Search
-
-| **Problem No. (LeetCode)** | **Problem Description** | **Solved By**  | **Topic**       |
-|----------------------------|-------------------------|----------------|-----------------|
-| 1                          | Description 16          | Collaborator 1 | Two Pointers    |
-| 2                          | Description 17          | Collaborator 2 | Binary Search   |
-| 3                          | Description 18          | Collaborator 3 | Two Pointers    |
-| 4                          | Description 19          | Collaborator 4 | Binary Search   |
-| 5                          | Description 20          | Collaborator 5 | Two Pointers    |
-
-## Day 5: SQL and Binary Trees (BT)
-
-| **Problem No. (LeetCode)** | **Problem Description** | **Solved By**  | **Topic** |
-|----------------------------|-------------------------|----------------|-----------|
-| 1                          | Description 21          | Collaborator 1 | SQL       |
-| 2                          | Description 22          | Collaborator 2 | BT       |
-| 3                          | Description 23          | Collaborator 3 | SQL       |
-| 4                          | Description 24          | Collaborator 4 | BT       |
-| 5                          | Description 25          | Collaborator 5 | SQL       |
-
-## How to Contribute
-
-1. **Solve the Problem:** Pick a problem for the day and solve it.
-2. **Document Your Solution:** Add your solution and explanation to the repository.
-3. **Review:** Check solutions from other collaborators to gain new insights.
-
-## Contact
-
-For any questions or suggestions, feel free to reach out to the project collaborators.
-
-Happy Coding!
-
-
-
 
 ## Conclusion
 
